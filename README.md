@@ -67,10 +67,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 
 
@@ -110,7 +107,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Dipayan Das - email@example.com
+Dipayan Das - dipayandas360@gmail.com
 Sayantan Kundu - sayantankundu02@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
