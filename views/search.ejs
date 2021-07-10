@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="search.css">
+    <title>Search</title>
+</head>
+
+<body>
+    <div class="nav">
+        <nav class="navbar navbar-expand-lg my_nav">
+            <a class="navbar-brand" href="#">COVICOM2.0</a>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Map</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/search">Vaccination Centres</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="search">
+        <form class="d-flex" action="/search" method="POST" >
+            <input class="form-control me-2 input"  name="search" placeholder="Search by PIN code" aria-label="Search">
+            <button class="btn btn-outline-success button" type="submit">Search</button>
+        </form>
+    </div>
+
+    <div class="table">
+        <table class="table table-dark table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">sl.no</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Address</th>
+                    <th scope="col">Fee</th>
+                    <th scope="col">Vaccine</th>
+                    <th scope="col">From</th>
+                    <th scope="col">To</th>
+                </tr>
+            </thead>
+            <tbody>
+          
+          <% let i = 0; %>
+          
+          <% array.forEach(element => {  %>
+            <%     i++; %>
+                <tr>
+                    <th><%= i %></th>
+                    <td><%= element.name  %></td>
+                    <td><%= element.address  %></td>
+                    <td><%= element.fee  %></td>
+                    <td><%= element.vaccine  %></td>
+                    <td><%= element.from  %></td>
+                    <td><%= element.to  %></td>
+                </tr>
+          <%  });    %> 
+                   
+
+
+            </tbody>
+
+        </table>
+    </div>
+
+</body>
+
+</html>
