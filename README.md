@@ -32,8 +32,13 @@ To build an all-in-one Covid-19 website for India, which will be a one-stop solu
 * [Html5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 * [JavaScript](https://www.javascript.com/)
+* [Node JS](https://nodejs.org/en/)
 
 
+### About Frontend and Backend
+
+This is a NODE app . We have used EJS as our vuew engine .  We also have some static CSS and JS files included in the EJS codes . 
+EXPRESS module is used for routing and rendering the EJS files .
 
 ## Getting Started
 
@@ -49,10 +54,10 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Install NODE JS from [https://nodejs.org/en/] 
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/PiXeL99-eng/COVID-19_Project.git
    ```
 3. Install NPM packages
    ```sh
@@ -61,10 +66,12 @@ This is an example of how to list things you need to use the software and how to
 
 
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Open the folder in any IDE , in the integrated terminal write the command given below to run the program . 
+```sh
+   node node.js
+   ```
+You can also open the folder path in the powershell and write the same command as above to run the program.
+Open localhost:3000 in your browser to see the web page .
 
 
 ## Data Sources
