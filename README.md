@@ -37,8 +37,7 @@ To build an all-in-one Covid-19 website for India, which will be a one-stop solu
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+How to set up the project locally:-
 
 ### Prerequisites
 
