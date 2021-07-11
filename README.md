@@ -89,7 +89,7 @@ Debasmita Deoghuria - ddeoghuria2@gmail.com
 
 Shuvam Saha - shuvam.saha02@gmail.com
 
-Ritabrata Barat - 
+Ritabrata Barat - ritobrotobarat.100@gmail.com
 
 
 Project Link: [https://github.com/PiXeL99-eng/COVID-19_Project](https://github.com/PiXeL99-eng/COVID-19_Project)
