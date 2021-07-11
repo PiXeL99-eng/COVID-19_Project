@@ -19,8 +19,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -32,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-To build an all-in-one Covid-19 website for India, which will be a one-stop solution to everyone’s needs
+To build an all-in-one Covid-19 website for India, which will be a one-stop solution to everyone’s needs during this pandemic.
 
 ### Built With
 
@@ -79,44 +77,33 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-<!-- CONTACT -->
 ## Contact
 
 Dipayan Das - dipayandas360@gmail.com
+
 Sayantan Kundu - sayantankundu02@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/PiXeL99-eng/COVID-19_Project](https://github.com/PiXeL99-eng/COVID-19_Project)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Latitude and Longitude Finder](https://www.latlong.net/)
+* [Latitude and Longitude Finder](https://api.covid19india.org/v2/state_district_wise.json
+![image](https://user-images.githubusercontent.com/70836825/125181521-36706380-e223-11eb-99f8-a70a6cd82680.png)
+)
+* [Latitude and Longitude Finder](https://raw.githubusercontent.com/dipayandas2002/udemy/main/exp/longlat.jso
+![image](https://user-images.githubusercontent.com/70836825/125181533-4d16ba80-e223-11eb-9816-3bc9fc7d4f43.png)
+)
+* [Latitude and Longitude Finder](https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=pincode&date=date-month-year
+![image](https://user-images.githubusercontent.com/70836825/125181537-63247b00-e223-11eb-9a83-96969030a3d2.png)
+)
+
 
 
 
