@@ -83,7 +83,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Dipayan Das - dipayandas360@gmail.com
 
-Sayantan Kundu - sayantankundu02@gmail.com
 
 Project Link: [https://github.com/PiXeL99-eng/COVID-19_Project](https://github.com/PiXeL99-eng/COVID-19_Project)
 
