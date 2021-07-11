@@ -1,7 +1,4 @@
 
-
-
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -19,15 +16,13 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#data-sources">Data Sources</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 To build an all-in-one Covid-19 website for India, which will be a one-stop solution to everyone’s needs during this pandemic.
@@ -40,7 +35,6 @@ To build an all-in-one Covid-19 website for India, which will be a one-stop solu
 
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -67,14 +61,18 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
+
+
+## Data Sources
+* [Latitude and Longitude Finder](https://www.latlong.net/)
+* [District wise Covid-19 data](https://api.covid19india.org/v2/state_district_wise.json)
+* [Longitude and Latitude database](https://raw.githubusercontent.com/dipayandas2002/udemy/main/exp/longlat.jso)
+* [Covid vaccine data](https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=pincode&date=date-month-year)
 
 
 ## License
@@ -89,24 +87,6 @@ Dipayan Das - dipayandas360@gmail.com
 Sayantan Kundu - sayantankundu02@gmail.com
 
 Project Link: [https://github.com/PiXeL99-eng/COVID-19_Project](https://github.com/PiXeL99-eng/COVID-19_Project)
-
-
-
-## Acknowledgements
-* [Latitude and Longitude Finder](https://www.latlong.net/)
-* [Latitude and Longitude Finder](https://api.covid19india.org/v2/state_district_wise.json
-![image](https://user-images.githubusercontent.com/70836825/125181521-36706380-e223-11eb-99f8-a70a6cd82680.png)
-)
-* [Latitude and Longitude Finder](https://raw.githubusercontent.com/dipayandas2002/udemy/main/exp/longlat.jso
-![image](https://user-images.githubusercontent.com/70836825/125181533-4d16ba80-e223-11eb-9816-3bc9fc7d4f43.png)
-)
-* [Latitude and Longitude Finder](https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=pincode&date=date-month-year
-![image](https://user-images.githubusercontent.com/70836825/125181537-63247b00-e223-11eb-9a83-96969030a3d2.png)
-)
-
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
