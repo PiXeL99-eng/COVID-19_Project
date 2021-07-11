@@ -12,8 +12,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+        </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#data-sources">Data Sources</a></li>
@@ -33,26 +32,20 @@ To build an all-in-one Covid-19 website for India, which will be a one-stop solu
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 * [JavaScript](https://www.javascript.com/)
 * [Node JS](https://nodejs.org/en/)
+* [Mapbox](https://www.mapbox.com/)
+* [Bootstrap v5.0.2](https://getbootstrap.com/)
 
 
 ### About Frontend and Backend
 
-This is a NODE app . We have used EJS as our view engine .  We also have some static CSS and JS files included in the EJS codes . 
-EXPRESS module is used for routing and rendering the EJS files .
+This is a NODE app . We have used EJS as our view engine . EXPRESS module is used for routing and rendering the EJS files .
+We have used Bootstrap v5.0.2 for the search page. For the map we have used Mapbox .
 
 ## Getting Started
 
 How to set up the project locally:-
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
 
 1. Install NODE JS from [https://nodejs.org/en/] 
 2. Clone the repo
@@ -64,8 +57,8 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 
-
 ## Usage
+
 Open the folder in any IDE , in the integrated terminal write the command given below to run the program . 
 ```sh
    node node.js
@@ -77,7 +70,7 @@ Open localhost:3000 in your browser to see the web page .
 ## Data Sources
 * [Latitude and Longitude Finder](https://www.latlong.net/)
 * [District wise Covid-19 data](https://api.covid19india.org/v2/state_district_wise.json)
-* [Longitude and Latitude database](https://raw.githubusercontent.com/dipayandas2002/udemy/main/exp/longlat.jso)
+* [Longitude and Latitude database](https://raw.githubusercontent.com/dipayandas2002/udemy/main/exp/longlat.json)
 * [Covid vaccine data](https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=pincode&date=date-month-year)
 
 
