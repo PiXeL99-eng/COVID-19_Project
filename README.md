@@ -24,7 +24,12 @@
 
 ## About The Project
 
-To build an all-in-one Covid-19 website for India, which will be a one-stop solution to everyone’s needs during this pandemic.
+Our aim is to build an all-in-one Covid-19 website for India, which will be a one-stop solution to everyone’s needs during this pandemic.
+
+Via the website, one can access info about the COVID-19 cases of all the districts across India. The pointers of the districts are coloured on the basis of the active 
+COVID-19 cases. Users can also get details about the Covid vaccination centres in any location, via pincodes.
+
+Addition of Helpline numbers and details of Healthcare services in localities across India, is a further scope of development of this project.
 
 ### Built With
 
