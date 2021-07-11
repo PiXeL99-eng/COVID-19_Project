@@ -37,7 +37,7 @@ To build an all-in-one Covid-19 website for India, which will be a one-stop solu
 
 ### About Frontend and Backend
 
-This is a NODE app . We have used EJS as our vuew engine .  We also have some static CSS and JS files included in the EJS codes . 
+This is a NODE app . We have used EJS as our view engine .  We also have some static CSS and JS files included in the EJS codes . 
 EXPRESS module is used for routing and rendering the EJS files .
 
 ## Getting Started
