@@ -82,9 +82,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Project Contributors
 
 Dipayan Das - dipayandas360@gmail.com
+
 Sayantan Kundu - sayantankundu02@gmail.com
-Debasmita Deoghuria - 
-Shuvam Saha - 
+
+Debasmita Deoghuria - ddeoghuria2@gmail.com
+
+Shuvam Saha - shuvam.saha02@gmail.com
+
 Ritabrata Barat - 
 
 
